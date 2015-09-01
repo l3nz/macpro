@@ -1,0 +1,6 @@
+#! /bin/bash
+
+# cvs update dry-run
+cvs -nq update -d
+
+
